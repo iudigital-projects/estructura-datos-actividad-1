@@ -88,6 +88,7 @@ public class App {
                     break;
                 case "4":
                     crearProductoConNYP(listaProductos, scanner);
+                    menuActivo = false;
                     break;
                 case "5":
                     menuActivo = false;
